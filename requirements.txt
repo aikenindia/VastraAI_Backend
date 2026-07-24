@@ -6,7 +6,7 @@ python-multipart==0.0.9
 requests==2.32.3
 pandas==2.2.2
 numpy==1.26.4
-xgboost==2.1.1
+xgboost==3.2.0
 scikit-learn==1.6.1
 joblib==1.4.2
 pymupdf==1.24.5
